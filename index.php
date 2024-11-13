@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Home Page</h1>
-    <a href="./phonestore/auth/login.php">Login</a>
+    <a href="./auth/login.php">Login</a>
 </body>
 </html>
